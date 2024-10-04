@@ -1,4 +1,5 @@
 "SimpleStorage DApp"
+
 Problem Statement:-
 In a world of decentralized applications, there's often a need for a simple way to store and retrieve data on the blockchain. This project demonstrates a basic storage DApp where users can store and retrieve messages using a smart contract. It showcases how blockchain technology can be used for decentralized data storage, offering an alternative to traditional centralized databases.
 
